@@ -8,3 +8,4 @@ Built in Power BI ⚡ to boost retention, engagement 😊 & smarter HR decisions
 ## 🖼️ Dashboard Preview
 ![HR Dashboard](images/hr_dashboard.png)
 
+
